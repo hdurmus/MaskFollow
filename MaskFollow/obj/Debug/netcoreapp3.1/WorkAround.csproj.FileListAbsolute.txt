@@ -1,0 +1,4 @@
+C:\Users\Huseyin\source\repos\MaskFollow\obj\Debug\netcoreapp3.1\WorkAround.csprojAssemblyReference.cache
+C:\Users\Huseyin\source\repos\MaskFollow\obj\Debug\netcoreapp3.1\WorkAround.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\source\repos\MaskFollow\obj\Debug\netcoreapp3.1\WorkAround.AssemblyInfoInputs.cache
+C:\Users\Huseyin\source\repos\MaskFollow\obj\Debug\netcoreapp3.1\WorkAround.AssemblyInfo.cs

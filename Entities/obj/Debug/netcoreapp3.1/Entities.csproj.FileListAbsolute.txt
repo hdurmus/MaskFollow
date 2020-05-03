@@ -1,0 +1,8 @@
+C:\Users\Huseyin\source\repos\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\source\repos\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\Huseyin\source\repos\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\Huseyin\source\repos\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\Huseyin\source\repos\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Huseyin\source\repos\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Huseyin\source\repos\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Huseyin\source\repos\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
